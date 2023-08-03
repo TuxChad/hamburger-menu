@@ -41,4 +41,5 @@ Contributions are welcome!.If you find any issues or would like to add enhanceme
 Enjoy your beautifully animated and responsive Hamburger Menu! If you have any questions or suggestions, please open an issue or contact us.
 
 **Author**: TuxChad (alias:srinath) 
+
 **Email**: srinathspeaks@gmail.com
